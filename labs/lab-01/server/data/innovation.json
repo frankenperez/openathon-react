@@ -1,0 +1,50 @@
+[
+  {
+    "id": "1",
+    "name": "Accenture Research",
+    "description": "Uncover insights & shape trends. Accenture Research identifies and anticipates game-changing business, market and technology trends through provocative thought leadership. Our 250 researchers partner with world-class organizations such as MIT and Singularity to discover innovative solutions for our clients.",
+    "link": "https://www.accenture.com/us-en/innovation-architecture-accenture-research",
+    "image_link": "https://www.accenture.com/t20170202T023946Zw320/us-en/_acnmedia/Accenture/Conversion-Assets/DotCom/Images/About-Accenture/Global/24/Accenture-Research-thumbnail.jpg?h=272&w=320&la=en&hash=D591063E9CE368389B3616A4DC2A523D6510C5D2",
+    "image_link_alt": "https://www.accenture.com/t20171031T034641Z__w__/us-en/_acnmedia/Accenture/DigitasLBi/innovation-architecture/images/nameplates/research-icon.pngla=en?la=en"
+  },
+  {
+    "id": "2",
+    "name": "Accenture Ventures",
+    "description": "Partner with growth-stage companies. Accenture Ventures partners with and invests in growth-stage companies that create innovative enterprise technologies using an open innovation approach.",
+    "link": "https://www.accenture.com/us-en/innovation-architecture-accenture-ventures",
+    "image_link": "https://www.accenture.com/t20170202T023946Zw320/us-en/_acnmedia/Accenture/Conversion-Assets/DotCom/Images/About-Accenture/Global/24/Accenture-Ventures-thumbnail.jpg?h=272&w=320&la=en&hash=784522A916940DD8E12D41280E32D9EF95960E22",
+    "image_link_alt": "https://www.accenture.com/t20171031T034642Z__w__/us-en/_acnmedia/Accenture/DigitasLBi/innovation-architecture/images/nameplates/ventures-icon.pngla=en"
+  },
+  {
+    "id": "3",
+    "name": "Accenture Labs",
+    "description": "Research and incubate new concepts. Accenture Labs does cutting edge research and incubates new concepts through applied R&D projects that have a significant near-term impact on our clients’ businesses.",
+    "link": "https://www.accenture.com/us-en/innovation-architecture-accenture-labs",
+    "image_link": "https://www.accenture.com/t20170202T023946Zw320/us-en/_acnmedia/Accenture/Conversion-Assets/DotCom/Images/About-Accenture/Global/24/Accenture-Labs-thumbnail.jpg?h=272&w=320&la=en&hash=49566586DCD64156005298C498AB7A6CF4ED1835",
+    "image_link_alt": "https://www.accenture.com/t20171031T034640Z__w__/us-en/_acnmedia/Accenture/DigitasLBi/innovation-architecture/images/nameplates/labs-icon.pngla=en?la=en"
+  },
+  {
+    "id": "4",
+    "name": "Accenture Studios",
+    "description": "Build solutions with speed and agility. Accenture Studios focus on a range of specializations from rapid application development to service design and digital project creation to mobile apps and digital services.",
+    "link": "https://www.accenture.com/us-en/innovation-architecture-accenture-studios",
+    "image_link": "https://www.accenture.com/t20170202T023947Zw320/us-en/_acnmedia/Accenture/Conversion-Assets/DotCom/Images/About-Accenture/Global/24/Accenture-Studios-thumbnail.jpg?h=272&w=320&la=en&hash=0597771DC2CCB2305E6732655DC277789AA983E5",
+    "image_link_alt": "https://www.accenture.com/t20171031T034642Z__w__/us-en/_acnmedia/Accenture/DigitasLBi/innovation-architecture/images/nameplates/studios-icon.pngla=en"
+  },
+  {
+    "id": "5",
+    "name": "Accenture Innovation Centers",
+    "description": "Demonstrate and scale industry solutions. Accenture Innovation Centers are located strategically worldwide, building and scaling solutions across technologies and industries.",
+    "link": "https://www.accenture.com/us-en/innovation-architecture-accenture-innovation-centers",
+    "image_link": "https://www.accenture.com/t20170202T023947Zw320/us-en/_acnmedia/Accenture/Conversion-Assets/DotCom/Images/About-Accenture/Global/24/Accenture-Innovation-Centers-thumbnail.jpg?h=272&w=320&la=en&hash=3BE06BA4821152C6218DE3CF1BEB00C012988A03",
+    "image_link_alt": "https://www.accenture.com/t20161221T190747__w__/us-en/_acnmedia/Accenture/DigitasLBi/innovation-architecture/images/nameplates/innnovation-icon.png"
+  },
+  {
+    "id": "6",
+    "name": "Accenture Delivery Centers",
+    "description": "Deliver Innovation. Accenture Delivery Centers industrialize the delivery of our innovations to unlock the power of New IT and transform business processes through our unparalleled network across more than 50 locations.",
+    "link": "https://www.accenture.com/us-en/innovation-architecture-accenture-delivery-centers",
+    "image_link": "https://www.accenture.com/t20170202T023947Zw320/us-en/_acnmedia/Accenture/Conversion-Assets/DotCom/Images/About-Accenture/Global/24/Accenture-Delivery-Centers-thumbnail.jpg?h=272&w=320&la=en&hash=9BE0E46048A7EEB342DEBB60F36E03011D6A6240",
+    "image_link_alt": "https://www.accenture.com/t20161221T190723__w__/us-en/_acnmedia/Accenture/DigitasLBi/innovation-architecture/images/nameplates/delivery-icon.png"
+  }
+]
